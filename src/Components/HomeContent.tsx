@@ -10,10 +10,10 @@ const HomeContent = () => {
                 <h1 className="fade-in">Welcome to Wallter</h1>
                 <p>Your trusted wallet platform</p>
                 
-                {/* Subheading */}
+               
                 <h2>Your ultimate destination for secure and seamless transactions</h2>
                 
-                {/* Features List */}
+               
                 <ul className="features-list">
                     <li>💼 Manage Your Digital Assets</li>
                     <li>🔒 Top-Notch Security</li>
